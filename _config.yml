@@ -3,7 +3,7 @@ title: BSHS FBLA
 email: dwitt@dranweb.com
 description: >
   TODO
-baseurl: 
+baseurl: "/BSHS-FBLA"
 url: "http://drakewitt.github.io/BSHS-FBLA/"
 fixedNav: 'true' # true or false
 theme: purple # green, blue, orange, purple, grey
